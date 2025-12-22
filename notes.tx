@@ -1,0 +1,18 @@
+Basic CLI commands
+- pwd: Print the current working directory.
+- ls: List files and directories in the current directory.
+- mkdir [directory]: Create a new directory with the specified name.
+- cd [directory]: Change the current directory to the specified directory.
+
+Class preparation steps: 
+1. Open vscode
+2. Open a project folder in your projects directory
+3. Create a repository on Github
+4. Create a notes.txt file
+5. Create an index.html file !
+6. Create an app.py file 
+
+Update repo
+git add the-file-i-changed <file2> <file3>
+git commit -m "what did i change?"
+git push 
