@@ -1,7 +1,7 @@
 print("Hello, World!")
 
 def greet():
-    return f"Hello, class!"
+    return "Hello, class!"
 
 result = greet()
 
