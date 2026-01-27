@@ -15,4 +15,8 @@ Class preparation steps:
 Update repo
 git add the-file-i-changed <file2> <file3>
 git commit -m "what did i change?"
-git push 
+git push
+
+git checkout -b <branch-name>
+Make a change
+git - add commit push 
