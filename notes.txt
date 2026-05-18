@@ -1,8 +1,15 @@
 ## Basic CLI commands
-- pwd: Print the current working directory.
-- ls: List files and directories in the current directory.
-- mkdir [directory]: Create a new directory with the specified name.
-- cd [directory]: Change the current directory to the specified directory.
+- pwd -  Print the current working directory.
+- ls - List files and directories in the current directory.
+- mkdir <directory> -  Create a new directory with the specified name. 
+- cd <directory> -  Change the current directory to the specified directory. 
+- man <command> -  show the manual pages for the command 
+
+Examples: 
+mkdir new_folder
+cd new_folder 
+cd ..
+man ls 
 
 ## Class preparation steps: 
 1. Open vscode
